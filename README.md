@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 <h3 align="center">Enthusiastic About Full Stack Web Development (ASP.NET Core MVC)</h3>
 
-- 🔭 I’m currently working on [School System Project using Asp.Net Core MVC](https://github.com/onrdr/ASP.NetCore6_MVC_SchoolProject)
+- 🔭 I’m currently working on [School System Project using Asp.Net Core MVC](https://github.com/onrdr/ASP.NETCoreMVC_SchoolProject)
 
 - 🌱 I’m currently learning Identity - Authentication - Authorization
 
