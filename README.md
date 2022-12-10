@@ -1,9 +1,9 @@
 <h1 align="center">Hi there! 👋</h1>
-<h3 align="center">Enthusiastic About Full Stack Web Development (ASP.NET Core MVC)</h3>
+<h3 align="center">Full Stack Web Developer (ASP.NET Core MVC & Web API)</h3>
 
 - 🔭 I’m currently working on [School System Project using Asp.Net Core MVC](https://github.com/onrdr/ASP.NETCoreMVC_SchoolProject)
 
-- 🌱 I’m currently learning Identity - Authentication - Authorization
+- 🌱 I’m currently learning Identity API - Authentication - Authorization - JWT
 
 - 👨‍💻 All of my projects are available at [https://github.com/onrdr](https://github.com/onrdr)
 
