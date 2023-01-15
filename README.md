@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 <h3 align="center">Full Stack Web Developer (ASP.NET Core MVC & Web API)</h3>
 
-- 🔭 I’m currently working on [eCommerce-AspNetCore-MVC ](https://github.com/onrdr/eCommerce-AspNetCore-MVC)
+- 🔭 I’m currently working on [eCommerce-AspNetCore-MVC Web Application Project](https://github.com/onrdr/eCommerce-AspNetCore-MVC)
 
 - 🌱 I’m currently learning Identity API - Authentication - Authorization - JWT
 
