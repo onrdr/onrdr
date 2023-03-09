@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on[ eCommerce Web App using Asp Net Core MVC](https://github.com/onrdr/eCommerce-AspNetCore-MVC)
 
-- 🌱 I’m currently learning JWT Service and Global Exception Handling implementations in Asp Net Core 
+- 🌱 I’m currently learning MediatR ve CQRS Patterns
 
 - 👨‍💻 All of my projects are available at [https://github.com/onrdr](https://github.com/onrdr)
 
