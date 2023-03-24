@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on[ eCommerce Web App using Asp Net Core MVC](https://github.com/onrdr/eCommerce-AspNetCore-MVC)
 
-- 🌱 I’m currently learning MediatR and CQRS Patterns
+- 🌱 I’m currently learning Test Driven Development, Unit Tests using NUnit, Moq and Fluent Assertion
 
 - 👨‍💻 All of my projects are available at [https://github.com/onrdr](https://github.com/onrdr)
 
