@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
-<h3 align="center">I'm a .Net Developer</h3>
+<h3 align="center">I'm a Software Developer</h3>
 
 - 🔭 I’m currently working on[ eCommerce Web App using Asp Net Core MVC](https://github.com/onrdr/eCommerce-AspNetCore-MVC)
 
