@@ -10,6 +10,8 @@
 - 📝 I regularly solve "Data Structures and Algorithms" problems on [https://www.hackerrank.com/onrdrmn](https://www.hackerrank.com/onrdrmn)
 
 - 📫 How to reach me onrdrmn@gmail.com
+
+- Please visit my blog to read articles about .Net, C# and Data Structures : https://onrdrmn.com/ 
   
 
 <h3 align="left">Languages and Tools:</h3>
