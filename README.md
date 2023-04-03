@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
-<h3 align="center">I'm an Enthusiastic Software Developer | C#, .Net Core, ASP .NET Core | Javascript, JQuery, Bootstrap, HTML, CSS | OOP | SOLID Principles | Clean Code | Data Structure and Algorithms.</h3>
+<h3 align="center">I'm an Enthusiastic Software Developer</h3>
 
 - 🔭 I’m currently working on[ eCommerce Web App using Asp Net Core MVC](https://github.com/onrdr/eCommerce-AspNetCore-MVC)
 
