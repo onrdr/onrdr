@@ -11,7 +11,8 @@
 
 - 📫 How to reach me onrdrmn@gmail.com
 
-- Please visit my blog to read articles about .Net, C# and Data Structures : https://onrdrmn.com/ 
+- ![image](https://user-images.githubusercontent.com/106915107/229639282-77327c00-4def-47fc-a4a7-9b59456bb8b6.png)
+Please visit my blog to read articles about .Net, C# and Data Structures : https://onrdrmn.com/ 
   
 
 <h3 align="left">Languages and Tools:</h3>
