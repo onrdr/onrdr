@@ -3,7 +3,7 @@
 
 - Please visit my blog to read articles about .Net, C# and Data Structures : https://onrdrmn.com/ 
 
-- 🔭 I’m currently working on[Product Sale Microservice Project]([https://github.com/onrdr/eCommerce-AspNetCore-MVC](https://github.com/onrdr/SellingProducts-Microservice-Project))
+- 🔭 I’m currently working on [Product Sale Microservice Project](https://github.com/onrdr/SellingProducts-Microservice-Project)
 
 - 🌱 I’m currently learning Test Driven Development, Unit Tests using NUnit, Moq and Fluent Assertion
 
