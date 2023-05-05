@@ -1,7 +1,9 @@
 <h1 align="center">Hi there! 👋</h1>
 <h3 align="center">I'm an Enthusiastic Software Developer</h3>
 
-- Please visit my blog to read articles about .Net, C# and Data Structures : https://onrdrmn.com/ 
+- Check my portfolio website : https://www.onrdrmn.com/
+
+- Visit my blog to read articles about .Net, C# and Data Structures : https://onrdrmn.medium.com/
 
 - 🔭 I’m currently working on [Product Sale Microservice Project](https://github.com/onrdr/SellingProducts-Microservice-Project)
 
