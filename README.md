@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Auction Website Microservice Project](https://github.com/onrdr/AuctionWebsite-Microservice)
 
-- 🌱 I’m currently learning Test Driven Development, Unit Tests using NUnit, Moq and Fluent Assertion
+- 🌱 I’m currently learning Microservice Architecture & Unit Tests using XUnit - NUnit, Moq and Fluent Assertion
 
 - 👨‍💻 All of my projects are available at [https://github.com/onrdr](https://github.com/onrdr)
 
