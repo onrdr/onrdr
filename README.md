@@ -5,7 +5,7 @@
 
 - Visit my blog to read articles about .Net, C# and Data Structures : https://onrdrmn.medium.com/
 
-- 🔭 I’m currently working on [e-Commerce ASP.NET Core MVC Project](https://github.com/onrdr/SaleMarkt)
+- 🔭 I’m currently working on SaleMarkt: [e-Commerce ASP.NET Core MVC Project](https://github.com/onrdr/SaleMarkt)
 
 - 🌱 I’m currently learning Microservice Architecture & Unit Tests using XUnit - NUnit, Moq and Fluent Assertion
 
