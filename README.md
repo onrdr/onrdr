@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
-<h3 align="center">I'm an Enthusiastic Software Developer</h3>
+<h3 align="center">I'm a Software Developer</h3>
 
 - Check my portfolio website : https://www.onrdrmn.com/
 
