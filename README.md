@@ -1,8 +1,6 @@
 <h1 align="center">Hi there! 👋</h1>
 <h3 align="center">I'm a Software Developer</h3>
 
-- Check my portfolio website : https://www.onrdrmn.com/
-
 - Visit my blog to read articles about .Net, C# and Data Structures : https://onrdrmn.medium.com/
 
 - 🔭 I’m currently working on SaleMarkt: [e-Commerce ASP.NET Core MVC Project](https://github.com/onrdr/SaleMarkt)
