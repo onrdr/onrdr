@@ -2,14 +2,8 @@
 <h3 align="center">I'm a Software Developer</h3>
 
 - Visit my blog to read articles about .Net, C# and Data Structures : https://onrdrmn.medium.com/
-
-- 🔭 I’m currently working on SaleMarkt: [e-Commerce ASP.NET Core MVC Project](https://github.com/onrdr/SaleMarkt)
-
-- 🌱 I’m currently learning Microservice Architecture & Unit Tests using XUnit - NUnit, Moq and Fluent Assertion
-
-- 👨‍💻 All of my projects are available at [https://github.com/onrdr](https://github.com/onrdr)
-
-- 📫 How to reach me onrdrmn@gmail.com
+ 
+- 📫 How to reach me: onrdrmn@gmail.com
  
  
 
